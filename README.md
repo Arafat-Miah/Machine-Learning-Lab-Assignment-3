@@ -106,18 +106,8 @@ This work significantly improved my ability to translate mathematical formulatio
 
 ## MATLAB Grader Compliance
 
-All implementations:
-
-- Follow the exact required function signatures  
-- Use fixed iteration limits (`max_iter`)  
-- Do not rely on convergence-based stopping criteria  
-- Properly return required outputs (parameters, histories, matrices)  
-- Respect Automatic Differentiation–supported operations  
-- Correctly handle matrix and vector dimensions  
-
----
-
 ## Repository Structure
+```text
 Machine-Learning-Lab-Assignment-3/
 │
 ├── task1_Outliers_And_Cost_Functions.m
@@ -126,6 +116,10 @@ Machine-Learning-Lab-Assignment-3/
 ├── task4_Least_Squares_Non_linear_Regression.m
 ├── task5_LAD_Multi_Output_Regression.m
 └── README.md
+
+---
+
+## Repository Structure
 
 ---
 
