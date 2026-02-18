@@ -105,7 +105,17 @@ This work significantly improved my ability to translate mathematical formulatio
 ---
 
 ## MATLAB Grader Compliance
+All implementations:
 
+- Follow exact required function signatures
+- Use fixed iteration limits (`max_iter`)
+- Avoid convergence-based stopping criteria (as required)
+- Return correct output formats and dimensions
+- Use only AD-supported MATLAB operations
+- Correctly handle matrix and vector shapes
+- Maintain full compatibility with MATLAB Grader testing environment
+
+---
 ## Repository Structure
 ```text
 Machine-Learning-Lab-Assignment-3/
